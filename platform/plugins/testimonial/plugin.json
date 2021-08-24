@@ -1,0 +1,9 @@
+{
+    "name": "Testimonial",
+    "namespace": "Botble\\Testimonial\\",
+    "provider": "Botble\\Testimonial\\Providers\\TestimonialServiceProvider",
+    "author": "N/A",
+    "url": "N/A",
+    "version": "1.0",
+    "description": "The description for module testimonial"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "PadTr",
+    "namespace": "Theme\\PadTr\\",
+    "description": "New magazine PadTr theme",
+    "author": "Abdouta93",
+    "version": "5.8",
+    "required_plugins": [
+        "blog",
+        "contact",
+        "gallery",
+        "language",
+        "block",
+        "member"
+    ]
+}
